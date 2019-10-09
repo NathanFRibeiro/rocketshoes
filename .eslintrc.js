@@ -31,5 +31,6 @@ module.exports = {
     'react/destructuring-assignment': 'off',
     'react/static-property-placement': 'off',
     'react/prefer-stateless-function': 'off',
+    'no-param-reassign': 'off',
   },
 };
